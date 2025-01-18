@@ -13,4 +13,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+<h3 align="center">• 🌱 I`m currently learning C#, C++, JavaScript and Frameworks </h3>
+<h3 align="center">• 🗒️ Trying to write articles </h3>
+<h3 align="center">• 📫 How to reach me? glebkatrenko67@gmail.com</h3>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
