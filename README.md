@@ -19,4 +19,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Bezzzdar's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bezzzdar&theme=dark)
+![Bezzzdar's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bezzzdar&theme=dark)
