@@ -3,6 +3,8 @@
 <h3 align="center">Computer science student, code writer and designer from Russia</h3>
 <br>
 
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
