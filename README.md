@@ -21,4 +21,4 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)]
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)]([https://leetcode.com/u/bezzzdar/])]
