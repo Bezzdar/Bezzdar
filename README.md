@@ -20,7 +20,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezzdar&layout=compact&theme=tokyonight)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Bezzzdar?theme=dark&font=Marvel)
 
