@@ -18,6 +18,7 @@
 <h3 align="center">• 🗒️ Trying to write articles </h3>
 <h3 align="center">• 📫 How to reach me? glebkatrenko67@gmail.com</h3>
 
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![Bezzzdar's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bezzzdar&theme=dark)
