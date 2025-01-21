@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href=#" target="_blank">Gleb</a> 
-<img src="(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" height="32"/></h1>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32"/></h1>
 <h3 align="center">Computer science student, code writer and designer from Russia</h3>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
