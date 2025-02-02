@@ -20,7 +20,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezzdar&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bezzdar&theme=solarized_dark)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Bezzzdar?theme=dark&font=Marvel)
+
 
