@@ -15,7 +15,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <h3 align="center">• 🌱 I`m currently learning C#, C++, JavaScript and Frameworks </h3>
-<h3 align="center">• 🗒️ Trying to write articles </h3>
+<h3 align="center">• 🗒️ Writing articles </h3>
 <h3 align="center">• 📫 How to reach me? glebkatrenko67@gmail.com</h3>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
