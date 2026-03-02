@@ -14,7 +14,7 @@
 
 
 <h3 align="center">• 🧠 Working with AI, Machine Learning & Data </h3>
-<h3 align="center">• 🗒️ ✍️ Writing technical articles and research notes </h3>
+<h3 align="center">• ✍️ Writing technical articles and research notes </h3>
 <h3 align="center">• 🗄️ Building efficient SQL-based systems </h3>
 <h3 align="center">• 🐧 Linux user</h3>
 
