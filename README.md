@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-5B8DEF?style=for-the-badge&logo=python&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-00A1F1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C?style=for-the-badge&logo=C&logoColor=white)
 
 
 <h3 align="center">• 🧠 Working with AI, Machine Learning & Data </h3>
