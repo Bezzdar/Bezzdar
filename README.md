@@ -4,7 +4,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 ![n8n](https://img.shields.io/badge/n8n-fa0f18?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5B8DEF?style=for-the-badge&logo=python&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-00A1F1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
