@@ -5,13 +5,13 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-![n8n](https://img.shields.io/badge/n8n-fa0f18?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5B8DEF?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-00A1F1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 <h3 align="center">• 🧠 Working with AI, Machine Learning & Data </h3>
 <h3 align="center">• ✍️ Writing technical articles and research notes </h3>
