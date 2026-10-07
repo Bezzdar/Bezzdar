@@ -14,7 +14,7 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
-[![Arch](https://img.shields.io/badge/Arch-E95420?logo=arch&logoColor=white)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)](#)
 
 <h3 align="center">• 🧠 Working with AI, Machine Learning & Data </h3>
 <h3 align="center">• ✍️ Writing technical articles and research notes </h3>
